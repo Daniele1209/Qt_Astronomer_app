@@ -1,0 +1,7 @@
+Betelgeuse,const2,20,30,44
+Vega,const2,333,3,55
+Rigel,const1,100,200,576
+Arcturis,const3,11,13,100
+name,const4,12,34,234234
+wada,const4,234,0,34
+dewde,const4,23,0,23

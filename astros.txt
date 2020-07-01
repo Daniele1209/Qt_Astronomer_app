@@ -1,0 +1,4 @@
+Marcel,const1
+Ion,const2
+Andrei,const3
+Stefanica,const4
